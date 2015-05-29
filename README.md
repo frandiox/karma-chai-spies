@@ -1,10 +1,11 @@
 # karma-chai-spies
+[![NPM version](https://badge.fury.io/js/karma-chai-spies.svg)](https://badge.fury.io/js/karma-chai-spies) [![Dependency Status](https://david-dm.org/frankdiox/karma-spies.svg)](https://david-dm.org/frankdiox/karma-chai-spies)
 Karma plugin adapter for [Chai-spies](http://chaijs.com/plugins/chai-spies).
-This repository is a mirror of [Vlad Kosinov's karma-chai-as-promised](https://github.com/vlkosinov/karma-chai-as-promised).
+This repository is a mirror of [Vlad Kosinov's karma-chai-as-promised](https://github.com/vlkosinov/karma-chai-as-promised) adapted to Chai-spies.
 
 ## Installation
 ```sh
-$ npm install https://github.com/frankdiox/karma-chai-spies.git --save-dev
+$ npm install karma-chai-spies --save-dev
 ```
 
 ## Requirements
@@ -12,8 +13,6 @@ $ npm install https://github.com/frankdiox/karma-chai-spies.git --save-dev
 This plugin has two peerDependencies:
 * [karma-chai](https://github.com/xdissent/karma-chai)
 * [chai-spies](https://github.com/chaijs/chai-spies)
-
-Karma and Chai versions will be resolved by these plug-ins respectively
 
 ## Usage
 
@@ -28,8 +27,6 @@ module.exports = function(config) {
   });
 }
 ```
-
-Keep in mind that, since Karma loads its frameworks in reverse and `chai-spies` depends on `chai`, you should declare it accordingly as done above.
 
 License
 ----
