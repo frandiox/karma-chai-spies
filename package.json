@@ -12,12 +12,13 @@
   },
 
   "peerDependencies": {
-    "chai-spies": "*",
+    "chai-spies": "0.6.0",
     "karma-chai": "*"
   },
 
   "keywords": [
     "karma",
+    "karma-plugin"
     "chai",
     "chai-spies"
   ]
