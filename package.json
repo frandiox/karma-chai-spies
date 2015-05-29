@@ -1,0 +1,24 @@
+{
+  "name": "karma-chai-spies",
+  "version": "0.1.0",
+  "author": "Fran Dios <me@frandiox.com>",
+  "description": "Chai-spies plugin for Karma",
+  "license": "MIT",
+  "homepage": "https://github.com/frankdiox/karma-chai-spies",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankdiox/karma-chai-spies.git"
+  },
+
+  "peerDependencies": {
+    "chai-spies": "*",
+    "karma-chai": "*"
+  },
+
+  "keywords": [
+    "karma",
+    "chai",
+    "chai-spies"
+  ]
+}
