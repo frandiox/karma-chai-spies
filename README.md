@@ -1,6 +1,8 @@
 # karma-chai-spies
-[![NPM version](https://badge.fury.io/js/karma-chai-spies.svg)](https://badge.fury.io/js/karma-chai-spies) [![Dependency Status](https://david-dm.org/frankdiox/karma-spies.svg)](https://david-dm.org/frankdiox/karma-chai-spies)
+[![NPM version](https://badge.fury.io/js/karma-chai-spies.svg)](https://badge.fury.io/js/karma-chai-spies) [![Dependency Status](https://david-dm.org/frankdiox/karma-chai-spies.svg)](https://david-dm.org/frankdiox/karma-chai-spies)
+
 Karma plugin adapter for [Chai-spies](http://chaijs.com/plugins/chai-spies).
+
 This repository is a mirror of [Vlad Kosinov's karma-chai-as-promised](https://github.com/vlkosinov/karma-chai-as-promised) adapted to Chai-spies.
 
 ## Installation
