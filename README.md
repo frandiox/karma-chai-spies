@@ -1,5 +1,5 @@
 # karma-chai-spies
-Karma plugin adapter for Chai-spies.
+Karma plugin adapter for [Chai-spies](http://chaijs.com/plugins/chai-spies).
 This repository is a mirror of [Vlad Kosinov's karma-chai-as-promised](https://github.com/vlkosinov/karma-chai-as-promised).
 
 ## Installation

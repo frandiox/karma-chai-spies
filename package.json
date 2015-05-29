@@ -18,7 +18,7 @@
 
   "keywords": [
     "karma",
-    "karma-plugin"
+    "karma-plugin",
     "chai",
     "chai-spies"
   ]
