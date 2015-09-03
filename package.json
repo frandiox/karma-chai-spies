@@ -12,7 +12,7 @@
   },
 
   "peerDependencies": {
-    "chai-spies": "0.6.0",
+    "chai-spies": "*",
     "karma-chai": "*"
   },
 
