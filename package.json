@@ -1,6 +1,6 @@
 {
   "name": "karma-chai-spies",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Fran Dios <me@frandiox.com>",
   "description": "Chai-spies plugin for Karma",
   "license": "MIT",
