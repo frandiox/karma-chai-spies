@@ -1,5 +1,3 @@
-var path = require('path');
-
 var framework = function(files) {
     files.unshift({
         pattern: require.resolve('chai-spies/chai-spies'),
