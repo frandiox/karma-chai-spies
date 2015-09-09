@@ -2,7 +2,7 @@ var path = require('path');
 
 var framework = function(files) {
     files.unshift({
-        pattern: path.resolve(require.resolve('chai-spies')).replace(/[^\/\\]*$/, 'chai-spies.js'),
+        pattern: require.resolve('chai-spies/chai-spies'),
         included: true,
         served: true,
         watched: false
